@@ -8,13 +8,13 @@ Console.WriteLine("hello");
 string pass = "L";
 Console.WriteLine("wats ya name");
 string name = Console.ReadLine();
-while (pass != "nopass")
+while (pass != "12345")
 {
     Console.WriteLine("wats ya password");
     pass = Console.ReadLine();
 }
 
-if (name == "noname" && pass == "nopass")
+if (name == "kalleanka" && pass == "12345")
 {
     Console.WriteLine("welcome");
 }
