@@ -1,0 +1,15 @@
+c:\Users\alexander.swedlund\New folder\ifsatser\ifsatser\bin\Debug\net8.0\ifsatser.exe
+c:\Users\alexander.swedlund\New folder\ifsatser\ifsatser\bin\Debug\net8.0\ifsatser.deps.json
+c:\Users\alexander.swedlund\New folder\ifsatser\ifsatser\bin\Debug\net8.0\ifsatser.runtimeconfig.json
+c:\Users\alexander.swedlund\New folder\ifsatser\ifsatser\bin\Debug\net8.0\ifsatser.dll
+c:\Users\alexander.swedlund\New folder\ifsatser\ifsatser\bin\Debug\net8.0\ifsatser.pdb
+c:\Users\alexander.swedlund\New folder\ifsatser\ifsatser\obj\Debug\net8.0\ifsatser.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alexander.swedlund\New folder\ifsatser\ifsatser\obj\Debug\net8.0\ifsatser.AssemblyInfoInputs.cache
+c:\Users\alexander.swedlund\New folder\ifsatser\ifsatser\obj\Debug\net8.0\ifsatser.AssemblyInfo.cs
+c:\Users\alexander.swedlund\New folder\ifsatser\ifsatser\obj\Debug\net8.0\ifsatser.csproj.CoreCompileInputs.cache
+c:\Users\alexander.swedlund\New folder\ifsatser\ifsatser\obj\Debug\net8.0\ifsatser.sourcelink.json
+c:\Users\alexander.swedlund\New folder\ifsatser\ifsatser\obj\Debug\net8.0\ifsatser.dll
+c:\Users\alexander.swedlund\New folder\ifsatser\ifsatser\obj\Debug\net8.0\refint\ifsatser.dll
+c:\Users\alexander.swedlund\New folder\ifsatser\ifsatser\obj\Debug\net8.0\ifsatser.pdb
+c:\Users\alexander.swedlund\New folder\ifsatser\ifsatser\obj\Debug\net8.0\ifsatser.genruntimeconfig.cache
+c:\Users\alexander.swedlund\New folder\ifsatser\ifsatser\obj\Debug\net8.0\ref\ifsatser.dll

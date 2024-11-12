@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexander.swedlund\\New folder\\ifsatser\\ifsatser\\ifsatser.csproj": {}
+    "c:\\Users\\alexander.swedlund\\New folder\\ifsatser\\ifsatser\\ifsatser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexander.swedlund\\New folder\\ifsatser\\ifsatser\\ifsatser.csproj": {
+    "c:\\Users\\alexander.swedlund\\New folder\\ifsatser\\ifsatser\\ifsatser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexander.swedlund\\New folder\\ifsatser\\ifsatser\\ifsatser.csproj",
+        "projectUniqueName": "c:\\Users\\alexander.swedlund\\New folder\\ifsatser\\ifsatser\\ifsatser.csproj",
         "projectName": "ifsatser",
-        "projectPath": "C:\\Users\\alexander.swedlund\\New folder\\ifsatser\\ifsatser\\ifsatser.csproj",
+        "projectPath": "c:\\Users\\alexander.swedlund\\New folder\\ifsatser\\ifsatser\\ifsatser.csproj",
         "packagesPath": "C:\\Users\\alexander.swedlund\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexander.swedlund\\New folder\\ifsatser\\ifsatser\\obj\\",
+        "outputPath": "c:\\Users\\alexander.swedlund\\New folder\\ifsatser\\ifsatser\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
